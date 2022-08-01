@@ -1,4 +1,4 @@
-# zoomable_sunburst
+# Zoomable sunburst
 
 This project aims to visualize species tables produced by eDNA analysis in Zoomable sunburst visulization in D3
 
